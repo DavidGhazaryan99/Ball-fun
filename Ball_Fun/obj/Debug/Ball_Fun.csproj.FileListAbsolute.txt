@@ -1,0 +1,15 @@
+C:\Users\Arus\source\repos\Ball_Fun\Ball_Fun\obj\Debug\Ball_Fun.csprojAssemblyReference.cache
+C:\Users\Arus\source\repos\Ball_Fun\Ball_Fun\obj\Debug\MainWindow.g.cs
+C:\Users\Arus\source\repos\Ball_Fun\Ball_Fun\obj\Debug\App.g.cs
+C:\Users\Arus\source\repos\Ball_Fun\Ball_Fun\obj\Debug\Ball_Fun_MarkupCompile.cache
+C:\Users\Arus\source\repos\Ball_Fun\Ball_Fun\obj\Debug\Ball_Fun_MarkupCompile.lref
+C:\Users\Arus\source\repos\Ball_Fun\Ball_Fun\bin\Debug\Ball_Fun.exe.config
+C:\Users\Arus\source\repos\Ball_Fun\Ball_Fun\bin\Debug\Ball_Fun.exe
+C:\Users\Arus\source\repos\Ball_Fun\Ball_Fun\bin\Debug\Ball_Fun.pdb
+C:\Users\Arus\source\repos\Ball_Fun\Ball_Fun\obj\Debug\MainWindow.baml
+C:\Users\Arus\source\repos\Ball_Fun\Ball_Fun\obj\Debug\Ball_Fun.g.resources
+C:\Users\Arus\source\repos\Ball_Fun\Ball_Fun\obj\Debug\Ball_Fun.Properties.Resources.resources
+C:\Users\Arus\source\repos\Ball_Fun\Ball_Fun\obj\Debug\Ball_Fun.csproj.GenerateResource.cache
+C:\Users\Arus\source\repos\Ball_Fun\Ball_Fun\obj\Debug\Ball_Fun.csproj.CoreCompileInputs.cache
+C:\Users\Arus\source\repos\Ball_Fun\Ball_Fun\obj\Debug\Ball_Fun.exe
+C:\Users\Arus\source\repos\Ball_Fun\Ball_Fun\obj\Debug\Ball_Fun.pdb
